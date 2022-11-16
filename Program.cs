@@ -142,7 +142,7 @@ namespace Alphabetical_Arranger
 
 
 // Copyright© by the AJTA's
-// for any info contack us on satyameshmalimern123@gmail.com
+// for any info contact us on satyameshmalimern123@gmail.com
 // hope you enjoyed
 
 
