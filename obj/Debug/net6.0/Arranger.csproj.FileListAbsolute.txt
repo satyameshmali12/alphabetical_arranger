@@ -1,0 +1,15 @@
+C:\Users\hp\OneDrive\Desktop\Arranger\obj\Debug\net6.0\Arranger.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\Arranger\obj\Debug\net6.0\Arranger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\Arranger\obj\Debug\net6.0\Arranger.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\Arranger\obj\Debug\net6.0\Arranger.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\Arranger\obj\Debug\net6.0\Arranger.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\Arranger\bin\Debug\net6.0\Arranger.exe
+C:\Users\hp\OneDrive\Desktop\Arranger\bin\Debug\net6.0\Arranger.deps.json
+C:\Users\hp\OneDrive\Desktop\Arranger\bin\Debug\net6.0\Arranger.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\Arranger\bin\Debug\net6.0\Arranger.dll
+C:\Users\hp\OneDrive\Desktop\Arranger\bin\Debug\net6.0\Arranger.pdb
+C:\Users\hp\OneDrive\Desktop\Arranger\obj\Debug\net6.0\Arranger.dll
+C:\Users\hp\OneDrive\Desktop\Arranger\obj\Debug\net6.0\refint\Arranger.dll
+C:\Users\hp\OneDrive\Desktop\Arranger\obj\Debug\net6.0\Arranger.pdb
+C:\Users\hp\OneDrive\Desktop\Arranger\obj\Debug\net6.0\Arranger.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\Arranger\obj\Debug\net6.0\ref\Arranger.dll
